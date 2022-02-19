@@ -1,0 +1,3 @@
+class Cor {
+  String valor = "";
+}
